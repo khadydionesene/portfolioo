@@ -3,7 +3,7 @@ st.set_page_config(page_title="CV Khady Dione Sene",  layout="wide")
 st.title ("Khady dione sene")
 st.subheader("Geomaticienne")
 with st.sidebar:
-    st.image("image.JPEG",width=200)
+    st.image("image.jpeg",width=200)
     st.header("CONTACT")
     st.markdown("adresse:Grand yoff,arafat")
     st.markdown("Email : senekhadydione@gmail.com")
